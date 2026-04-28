@@ -52,21 +52,12 @@ Outside of client work, I like exploring AI/ML tooling and building side project
 ## 💼 Work Experience
 
 ### WillScot
-<!--Frontend development work for a leading modular space solutions company — building and maintaining production web applications. -->
-
 ### Invoice Processing & PO Contracts
-<!--Internal enterprise tooling for automating document-heavy workflows — invoice processing pipelines and purchase order contract management systems. -->
-
 ### SplinkPro
 ### Meenestham
 ### UPAg
 
 ---
-
-
-
-
-
 ## 📫 Get in Touch
 
 I'm always up for interesting projects and conversations.
