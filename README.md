@@ -4,7 +4,7 @@
 
 **Frontend Developer** · React & Next.js · Building things that work beautifully
 
-[![2 Years Experience](https://img.shields.io/badge/Experience-2%20Years-0ea5e9?style=flat-square)](https://github.com/nagraj)
+[![2 Years Experience](https://img.shields.io/badge/Experience-2+%20Years-0ea5e9?style=flat-square)](https://github.com/nagraj)
 [![Open to Work](https://img.shields.io/badge/Status-Full%20Time-22c55e?style=flat-square)](https://github.com/tadangi)
 </div>
 
@@ -69,5 +69,5 @@ I'm always up for interesting projects and conversations.
 ---
 
 <div align="center">
-<sub>Building with curiosity · 2 years in · still learning every day</sub>
+<sub>Building with curiosity · 2+ years in · still learning every day</sub>
 </div>
